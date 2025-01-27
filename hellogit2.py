@@ -1,1 +1,1 @@
-print(“Hello Git 2!, soy PauColladoNavarro”)
+print(“Hello Git 2!, soy PauColladoNavarro y he hecho cambios.”)
