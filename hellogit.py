@@ -1,1 +1,1 @@
-print(“Hello Git!, soy PauColladoNavarro, cambio después de crear rama login”)
+print(“Hello GitHub remoto!”)
